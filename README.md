@@ -13,7 +13,7 @@
 first clone or download the repository
 
 ```
-git clone https://github.com/ssluizf/Artificium.git
+ git clone https://github.com/Midhunnnnnnnn/aicontentapp.git
 ```
 
 After that you can install the dependencies by executing the following command in the root folder of the project
